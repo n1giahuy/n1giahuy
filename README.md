@@ -1,5 +1,5 @@
 # Hi 👋, I'm Huy Nguyen
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
 - 🔭 I’m currently working on **AI Engineering**
 
