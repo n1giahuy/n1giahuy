@@ -38,15 +38,7 @@
 ---
 ## 🔝 Top Contributed Repo
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=n1giahuy&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=n1giahuy&show_icons=true&locale=en" alt="n1giahuy" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1giahuy&hide_progress=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1giahuy&show_icons=true&theme=radical)
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=n1giahuy&" alt="n1giahuy" />
-</p>
-
 
