@@ -1,8 +1,6 @@
 # Hi 👋, I'm Huy Nguyen
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
-- 🔭 I’m currently working on **AI Engineering**
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning for Computer Vision**
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
@@ -21,8 +19,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
