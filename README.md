@@ -37,6 +37,5 @@ Outside of school, I enjoy reading about new AI trends, joining student clubs, a
 ---
 ## 🔝 Top Contributed Repo
 
-![n1giahuy's Stats](https://github-readme-stats.vercel.app/api?username=n1giahuy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![n1giahuy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1giahuy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
