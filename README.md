@@ -1,11 +1,11 @@
 # Hi 👋, I'm Huy Nguyen
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
-I enjoy the challenge of turning raw data into meaningful insights. My goal is to build AI solutions that create value, prioritizing simplicity and performance over unnecessary complexity.
+I love making sense of data. I try to build AI models that are useful and simple, rather than just making them complex for no reason.
 
-I take code quality seriously. I treat every commit as a step towards a production-ready standard, and I'm eager to apply best practices in testing and documentation to every model pipeline I build.
+I care about writing code that is easy to read. Even though I'm a student, I treat my projects seriously by keeping my code clean and adding clear documentation.
 
-Beyond the screen, I’m an active learner who loves discussing the latest papers, volunteering in student tech groups, and helping others navigate the basics of programming.
+Outside of school, I enjoy reading about new AI trends, joining student clubs, and sharing what I know with friends.
 
 - 📫 How to reach me: **[nlgiahuy10@gmail.com](mailto:nlgiahuy10@gmail.com)**
   
