@@ -1,12 +1,14 @@
 # Hi 👋, I'm Huy Nguyen
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning for Computer Vision**
+I enjoy the challenge of turning raw data into meaningful insights. My goal is to build AI solutions that create value, prioritizing simplicity and performance over unnecessary complexity.
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
+I take code quality seriously. I treat every commit as a step towards a production-ready standard, and I'm eager to apply best practices in testing and documentation to every model pipeline I build.
 
-- 📫 How to reach me **nlgiahuy10@gmail.com**
+Beyond the screen, I’m an active learner who loves discussing the latest papers, volunteering in student tech groups, and helping others navigate the basics of programming.
 
+- 📫 How to reach me: **[nlgiahuy10@gmail.com](mailto:nlgiahuy10@gmail.com)**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/n1giahuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n1giahuy" height="30" width="40" /></a>
