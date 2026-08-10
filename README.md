@@ -1,9 +1,7 @@
 # Hi 👋, I'm Huy Nguyen
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
-I am driven by the limitless potential of AI. My goal is to turn my passion for technology into contributions that matter—whether it's improving a product or helping a team move faster.
-
-I believe that the best way to grow is by sharing. That’s why I actively participate in tech communities and enjoy supporting others in their learning journey.
+I am driven by the practical potential of AI, focusing deeply on agentic systems and biomedical computer vision. My hands-on experience ranges from orchestrating multi-agent LLM workflows for complex automation to researching domain-adaptive vision models for medical imaging (such as chromosome and blastocyst analysis). Beyond research and backend development, I believe the best way to grow is by sharing. As a GDG on Campus Lead, I actively foster collaborative tech communities to support others in their learning journey.
 
 - 📫 How to reach me: **[nlgiahuy10@gmail.com](mailto:nlgiahuy10@gmail.com)**
   
